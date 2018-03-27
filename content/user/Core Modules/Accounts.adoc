@@ -1,33 +1,19 @@
 ---
-Title: Accounts
+Title: Contas
 Weight: 70
 ---
 
-= Accounts
+= Contas
 
-The Accounts module is the centralised base from which you can create an
-association with most records in SuiteCRM. It is possible to create a
-relationship with Contacts, Converted Leads, Opportunities, any Activity
-such as Emails or Meetings and Cases. Accounts in SuiteCRM will
-typically hold all information specific to a company that your
-organisation will have a relationship with. In real world terms an
-Account may be a business entity that is a qualified Sales Prospect,
-Customer, Supplier or Re-seller and can be used to track all
-interactions that take place between these entities and your
-organisation.
+O módulo Contas é a base centralizada a partir da qual você pode criar uma associação com a maioria dos registros no SuiteCRM. É possível criar um relacionamento com Contatos, Leads convertidos, Oportunidades, qualquer Atividade como E-mails ou Reuniões e Casos. As contas no SuiteCRM geralmente contêm todas as informações específicas de uma empresa com a qual sua organização se relacionará. Em termos do mundo real, uma conta pode ser uma entidade comercial que seja uma perspectiva de vendas qualificada, cliente, fornecedor ou revendedor e pode ser usada para rastrear todas as interações que ocorrem entre essas entidades e sua organização.
 
-== Accounts Actions
+== Ações de Contas
 
-You can access the accounts actions from the Accounts module menu drop
-down or via the Sidebar. The Accounts actions are as follows:
+Você pode acessar as ações de contas no menu suspenso do módulo de contas ou na barra lateral. As ações de contas são as seguintes:
 
-* *Create Account* – Once clicked, a new form is opened in Edit View to
-allow you to create a new Account record.
-* *View Accounts* – Once clicked, you will be redirected to the List View
-for the Accounts module. This allows you to search and list Accounts
-records.
-* *Import Accounts* – Redirects you to the Import Wizard for the Accounts
-module. For more information, see link:/user/introduction/user-interface/#_importing_records[Importing Records].
+* *Criar conta* – Depois de clicado, um novo formulário é aberto em Editar visualização para permitir que você crie um novo registro de conta.
+* *Ver contas * – Uma vez clicado, você será redirecionado para a visualização de lista para o módulo Contas. Isso permite pesquisar e listar registros de contas.
+* *Importar Contas* – redireciona você para o Assistente de Importação para o módulo Contas. Para mais informações, consulte  link:/user/introduction/user-interface/#_importing_records[Importando Registros].
 
 To view the full list of fields available when creating an Account, See
 link:/user/appendix-a/#_accounts_field_list[Accounts Field List].
